@@ -130,7 +130,7 @@ The following **questions were asked** to each model:
 
 #### B. Crane and Tracks Image
 
-![](../assets/inputs/crane.jpeg)
+![](../assets/inputs/crane.jpg)
 **Question:** Does the image show any hazards that could pose a threat to worker safety?
 
 | Model            | Response                                                                                                                     |
@@ -145,7 +145,7 @@ The following **questions were asked** to each model:
 
 #### C. Traffic Zone Image
 
-![](../assets/inputs/traffic.jpeg)
+![](../assets/inputs/traffic.jpg)
 
 **Question:** Does the image show any hazards that could pose a threat to worker safety?
 
